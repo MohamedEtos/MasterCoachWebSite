@@ -3,9 +3,8 @@
         <div class=container>
             <div class=row>
                 <ul>
-                    <li><a href="#">Signup/login</a></li>
-                    <li><a href=shopcart.html><i class="fa fa-shopping-cart"></i> <span>cart(<span
-                            class=cartitems>0</span>)</span></a></li>
+                    <li><a href="#">عربي</a></li>
+                    <li><a href=shopcart.html><span>English</span></a></li>
                 </ul>
             </div>
         </div>
@@ -25,33 +24,35 @@
                                 <ul class="nav navbar-nav menu-bar">
                                     <li><a href=index-2.html class=active>Home <span></span> <span></span>
                                         <span></span> <span></span></a></li>
-                                    <li><a href=about.html>about <span></span> <span></span> <span></span>
-                                        <span></span></a></li>
-                                    <li><a>gallery <span></span> <span></span> <span></span> <span></span></a>
+                                    {{-- <li><a href=about.html>about <span></span> <span></span> <span></span>
+                                        <span></span></a></li> --}}
+                                    <li><a>Program <i class="fa-solid fa-angle-down"></i><span></span> <span></span> <span></span> <span></span></a>
                                         <ul class=sub-menu>
-                                            <li><a href=gallerypage01.html>masonry</a></li>
-                                            <li><a href=gallery02.html>gallery column two</a></li>
-                                            <li><a href=gallery03.html>gallery column 03</a></li>
+                                            <li><a href=gallerypage01.html>Junior</a></li>
+                                            <li><a href=gallery02.html>Senior</a></li>
+                                            <li><a href=gallery03.html>Kids</a></li>
                                         </ul>
                                     </li>
-                                    <li><a href=blog.html>blog <span></span> <span></span> <span></span>
-                                        <span></span></a></li>
-                                    <li><a href=bookTicket.html>book Tickets <span></span> <span></span>
+
+                                    <li><a>Location <i class="fa-solid fa-angle-down"></i><span></span> <span></span> <span></span> <span></span></a>
+                                        <ul class=sub-menu>
+                                            <li><a href=gallery02.html>malizia</a></li>
+                                            <li><a href=gallerypage01.html>Palestine</a></li>
+                                        </ul>
+                                    </li>
+                                    <li><a>Students <i class="fa-solid fa-angle-down"></i><span></span> <span></span> <span></span> <span></span></a>
+                                        <ul class=sub-menu>
+                                            <li><a href=gallery02.html>Gallary</a></li>
+                                        </ul>
+                                    </li>
+
+                                    <li><a __blank="" href="https://shop.karama-sc.com/login">Karama Club<span></span> <span></span>
                                         <span></span> <span></span></a></li>
-                                    <li><a href=shop.html>shop <span></span> <span></span> <span></span>
-                                        <span></span></a></li>
+
                                     <li><a href=contact.html>contact <span></span> <span></span> <span></span>
                                         <span></span></a></li>
-                                    <li><a>error <span></span> <span></span> <span></span> <span></span></a>
-                                        <ul class=sub-menu>
-                                            <li><a href=400.html>400 page</a></li>
-                                            <li><a href=401.html>401 page</a></li>
-                                            <li><a href=403.html>403 page</a></li>
-                                            <li><a href=404.html>404 page</a></li>
-                                            <li><a href=500.html>500 page</a></li>
-                                            <li><a href=503.html>503 page</a></li>
-                                        </ul>
-                                    </li>
+
+
                                 </ul>
                             </div>
                         </div>

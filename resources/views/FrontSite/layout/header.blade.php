@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- Favicon -->
     <link rel="shortcut icon" type="image/x-icon" href="img/favicon.png">
+    
     <link  href="{{URL::asset('FrontSite/css/vendor.css')}}" rel="stylesheet">
     <link  href="{{URL::asset('FrontSite/css/style.css')}}" rel="stylesheet">
     <link  href="{{URL::asset('FrontSite/css/layerslider.css')}}" rel="stylesheet">
