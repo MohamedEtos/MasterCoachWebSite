@@ -40,7 +40,7 @@
         <div class=container>
             <div class=booking-fig><h2>Master Coach Club</h2></div>
             <div class=booking-content><a href=# class="btn btn-white">read more</a> <a href=bookTicket.html
-                                                                                        class="btn btn-red">Location <i class="fa-solid fa-location-dot"></i></a></div>
+                class="btn btn-red">Location <i class="fa-solid fa-location-dot"></i></a></div>
         </div>
     </section>
 
@@ -48,7 +48,7 @@
 
     <section class=playerDetails02>
         <div class=container>
-            <div class=row><h2 class="heading text-danger">our <span>Programs</span></h2>
+            <div class=row><h2 class="heading  " style="color:#5bc5f2">our <span>Programs</span></h2>
 
                 <p class=headParagraph>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis
                     consequuntur animi, commodi, voluptatibus labore aperiam fugit maxime quos optio architecto cum?
@@ -57,27 +57,14 @@
                 <ul class=player02>
                     <li>
                         <div class=player02fig>
-                            <div style=background:url(images/player/player01.jpg) class="imgplayer bgimg"></div>
-                            <div class="playersocial bg-black clearfix"><a href=# class=social_link><i
-                                    class="fa fa-facebook"></i></a> <a href=# class=social_link><i
-                                    class="fa fa-linkedin"></i></a> <a href=# class=social_link><i
-                                    class="fa fa-twitter"></i></a> <a href=# class=social_link><i
-                                    class="fa fa-behance"></i></a></div>
+                            <div style=background:url(FrontSite/images/programs/FUNDAMENTAL.webp) class="imgplayer bgimg"></div>
+
                         </div>
                         <div class=player02info>
-                            <div class=clearfix>
-                                <div class=player02info01><h6><span>name</span>Monroe Meek</h6><h6><span>position</span>striker
-                                </h6><h6><span>age</span> (born 22 april,1987)</h6></div>
-                                <div class=player02info02><img src=images/player/playerT_shirt01.png alt=image></div>
-                            </div>
-                            <h6 class=oswald16>imformation</h6>
 
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nemo dicta iure atque dolorem
-                                voluptate quasi maxime, repellat aliquid eos. Beatae molestias itaque aspernatur quaerat
-                                culpa laudantium ducimus est eveniet. Repudiandae!lorem.Lorem ipsum dolor sit amet,
-                                consectetur adipisicing elit. Nemo dicta iure atque dolorem voluptate quasi maxime,
-                                repellat aliquid eos. Beatae molestias itaque aspernatur quaerat culpa laudantium
-                                ducimus est eveniet. Repudiandae!lorem.</p>
+                            <h6 class="oswald16" style="font-size:20px" >FUNDAMENTAL</h6>
+
+                            <p>In depth and progressive learning of competitive dribbling, shooting, passing, defending skills and tactics that can ultimately enhance your football gameplay skill. </p>
 
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nemo dicta iure atque dolorem
                                 voluptate quasi maxime, repellat aliquid eos. He made his debut for France in October
@@ -92,7 +79,7 @@
                     </li>
                     <li>
                         <div class=player02fig>
-                            <div style=background:url(images/player/player02.jpg) class="imgplayer bgimg"></div>
+                            <div style=background:url(FrontSite/images/programs/TECHNIQUES.webp) class="imgplayer bgimg"></div>
                             <div class="playersocial bg-black clearfix"><a href=# class=social_link><i
                                     class="fa fa-facebook"></i></a> <a href=# class=social_link><i
                                     class="fa fa-linkedin"></i></a> <a href=# class=social_link><i
@@ -103,7 +90,42 @@
                             <div class=clearfix>
                                 <div class=player02info01><h6><span>name</span>Kenton Kidd</h6><h6><span>position</span>striker
                                 </h6><h6><span>age</span> (born 22 april,1987)</h6></div>
-                                <div class=player02info02><img src=images/player/playerT_shirt01.png alt=image></div>
+                                <div class=player02info02><img src=FrontSite/images/player/playerT_shirt01.png alt=image></div>
+                            </div>
+                            <h6 class=oswald16>imformation</h6>
+
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate voluptates eius
+                                explicabo itaque deleniti saepe adipisci alias fugiat nulla nihil, blanditiis, corrupti
+                                facilis. Fugit, magnam! Sequi harum eos rerum corrupti.Lorem ipsum dolor sit amet,
+                                consectetur adipisicing elit. Ducimus quo voluptatem vel tenetur, doloremque perferendis
+                                magni magnam expedita! Voluptatibus in similique eaque rerum, natus, vitae quam
+                                repudiandae provident sed illum.</p>
+
+                            <p>He helped the French side to a league and cup double in 2010/11 and was named in the
+                                Ligue 1 Team of the Season the following year. He made his debut for France in October
+                                2011 and featured in four of Les Bleus' five games at the 2014 World Cup.</p><h6
+                                class=oswald16>previous club</h6>
+                            <ul class=clearfix>
+                                <li>France international Mathieu Debuchy</li>
+                                <li>18 in the Champions League.</li>
+                                <li>Les Bleus' five games at the 2014</li>
+                            </ul>
+                            <a href=player_details.html>more</a></div>
+                    </li>
+                    <li>
+                        <div class=player02fig>
+                            <div style=background:url(FrontSite/images/programs/FITNESS.webp) class="imgplayer bgimg"></div>
+                            <div class="playersocial bg-black clearfix"><a href=# class=social_link><i
+                                    class="fa fa-facebook"></i></a> <a href=# class=social_link><i
+                                    class="fa fa-linkedin"></i></a> <a href=# class=social_link><i
+                                    class="fa fa-twitter"></i></a> <a href=# class=social_link><i
+                                    class="fa fa-behance"></i></a></div>
+                        </div>
+                        <div class=player02info>
+                            <div class=clearfix>
+                                <div class=player02info01><h6><span>name</span>Kenton Kidd</h6><h6><span>position</span>striker
+                                </h6><h6><span>age</span> (born 22 april,1987)</h6></div>
+                                <div class=player02info02><img src=FrontSite/images/player/playerT_shirt01.png alt=image></div>
                             </div>
                             <h6 class=oswald16>imformation</h6>
 
