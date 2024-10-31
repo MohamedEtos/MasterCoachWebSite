@@ -3,6 +3,10 @@
 @include('FrontSite.layout.header')
 
 <body>
+
+@include('FrontSite.layout.navbar')
+
+
     @yield('content')
 </body>
 
