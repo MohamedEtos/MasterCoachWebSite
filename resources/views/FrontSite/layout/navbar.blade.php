@@ -4,14 +4,14 @@
             <div class=row>
                 <ul>
                     <li><a href="#">عربي</a></li>
-                    <li><a href=shopcart.html><span>English</span></a></li>
+                    <li><a href="#"><span>English</span></a></li>
                 </ul>
             </div>
         </div>
     </div>
     <div class="header-lower clearfix">
         <div class=container>
-            <div class=row><h1 class=logo><a href=index-2.html><img src="{{asset('Frontsite/images/logo.png')}}" alt=image></a></h1>
+            <div class=row><h1 class='logo pb-2' ><a href="/"><img style="margin-top: -10px" src="{{asset('Frontsite/images/logo.png')}}" alt=image></a></h1>
 
                 <div class=menubar>
                     <nav class=navbar>

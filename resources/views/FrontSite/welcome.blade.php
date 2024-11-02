@@ -80,26 +80,13 @@
                     <li>
                         <div class=player02fig>
                             <div style=background:url(FrontSite/images/programs/TECHNIQUES.webp) class="imgplayer bgimg"></div>
-                            <div class="playersocial bg-black clearfix"><a href=# class=social_link><i
-                                    class="fa fa-facebook"></i></a> <a href=# class=social_link><i
-                                    class="fa fa-linkedin"></i></a> <a href=# class=social_link><i
-                                    class="fa fa-twitter"></i></a> <a href=# class=social_link><i
-                                    class="fa fa-behance"></i></a></div>
+
                         </div>
                         <div class=player02info>
-                            <div class=clearfix>
-                                <div class=player02info01><h6><span>name</span>Kenton Kidd</h6><h6><span>position</span>striker
-                                </h6><h6><span>age</span> (born 22 april,1987)</h6></div>
-                                <div class=player02info02><img src=FrontSite/images/player/playerT_shirt01.png alt=image></div>
-                            </div>
-                            <h6 class=oswald16>imformation</h6>
 
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate voluptates eius
-                                explicabo itaque deleniti saepe adipisci alias fugiat nulla nihil, blanditiis, corrupti
-                                facilis. Fugit, magnam! Sequi harum eos rerum corrupti.Lorem ipsum dolor sit amet,
-                                consectetur adipisicing elit. Ducimus quo voluptatem vel tenetur, doloremque perferendis
-                                magni magnam expedita! Voluptatibus in similique eaque rerum, natus, vitae quam
-                                repudiandae provident sed illum.</p>
+                            <h6 class="oswald16" style="font-size:20px"> TECHNIQUES</h6>
+
+                            <p>Tap into the in-house specialties of D Skills by learning varieties of technical dribbling, nutmeg and freestyle skills which will up your game to the next level..</p>
 
                             <p>He helped the French side to a league and cup double in 2010/11 and was named in the
                                 Ligue 1 Team of the Season the following year. He made his debut for France in October
@@ -115,26 +102,13 @@
                     <li>
                         <div class=player02fig>
                             <div style=background:url(FrontSite/images/programs/FITNESS.webp) class="imgplayer bgimg"></div>
-                            <div class="playersocial bg-black clearfix"><a href=# class=social_link><i
-                                    class="fa fa-facebook"></i></a> <a href=# class=social_link><i
-                                    class="fa fa-linkedin"></i></a> <a href=# class=social_link><i
-                                    class="fa fa-twitter"></i></a> <a href=# class=social_link><i
-                                    class="fa fa-behance"></i></a></div>
+
                         </div>
                         <div class=player02info>
-                            <div class=clearfix>
-                                <div class=player02info01><h6><span>name</span>Kenton Kidd</h6><h6><span>position</span>striker
-                                </h6><h6><span>age</span> (born 22 april,1987)</h6></div>
-                                <div class=player02info02><img src=FrontSite/images/player/playerT_shirt01.png alt=image></div>
-                            </div>
-                            <h6 class=oswald16>imformation</h6>
 
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate voluptates eius
-                                explicabo itaque deleniti saepe adipisci alias fugiat nulla nihil, blanditiis, corrupti
-                                facilis. Fugit, magnam! Sequi harum eos rerum corrupti.Lorem ipsum dolor sit amet,
-                                consectetur adipisicing elit. Ducimus quo voluptatem vel tenetur, doloremque perferendis
-                                magni magnam expedita! Voluptatibus in similique eaque rerum, natus, vitae quam
-                                repudiandae provident sed illum.</p>
+                            <h6 class=oswald16 style="font-size:20px">FITNESS</h6>
+
+                            <p>You will learn a series of fitness workout and agility ladders drills that can help to improve your pace, stamina and shaping your body..</p>
 
                             <p>He helped the French side to a league and cup double in 2010/11 and was named in the
                                 Ligue 1 Team of the Season the following year. He made his debut for France in October
@@ -160,12 +134,7 @@
 
                 <div class=about-wrap>
                     <div class="tab-content nav-content">
-                        <p role=tabpanel class="tab-pane fade col-6" id=matches>Lorem ipsum
-                            dolor sit amet, consectetur adipisicing elit. Enim amet cumque quo at eius nulla, voluptates
-                            assumenda saepe, consequatur fuga sapiente. Quas optio adipisci dolor possimus quos, maiores
-                            aliquid placeat! nemo ab praesentium voluptatum, exercitationem ad quo tempore quam temporibus
-                            voluptates odio, qui laborum pariatur perferendis! Sapiente, itaque facilis deleniti unde?Lorem
-                            ipsum dolor sit amet, consectetur adipisicing elit.
+                        <p role=tabpanel class="tab-pane fade col-6" id=matches>Master Coach Academy is Malaysia's leading football academy that offers professional hybrid football skills development program for 4 to 16 years old players. To date, we have transcended 5000+ players' football skills by adopting our proven success training method and quality program in social immersed learning environment..
 
                         </p>
 
@@ -201,51 +170,137 @@
     </section>
     <section class=latestResult>
         <div class=container>
-            <div class=row><h2 class=heading>latest <span>result</span></h2>
+            <div class=row><h2 class='heading c_color'>Our <span>Location</span></h2>
+                    <p class="latestResult-wrap">
+                        Find your preferred locations and get trained by the best technical football coaches in Klang Valley now.
+                    </p>
+            </div>
 
-                <div class=latestResult-wrap><h4>uefa champions league</h4>
-
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Enim, nemo tenetur magnam eveniet sed
-                        aut, iste facere quisquam, cumque, vitae quis deleniti animi. A ipsum iusto, temporibus, beatae
-                        porro nemo.</p></div>
-                <div class="result clearfix">
-                    <div class=result-details>
-                        <div class=content><h4>fc Dragons</h4>
-
-                            <p>lose</p>
-
-                            <p>Shannon Skelly(23)</p></div>
-                        <div class=figure>
-                            <div class=team-logo>
-                                <div style=background:url(images/team-logo/logo01.png')}}") class=teamLogoImg></div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class=result-count>
-                        <div class=count-number><span class=lose-team>1</span> <span>-</span> <span
-                                class=win-team>3</span></div>
-                        <div class=dateTime>
-                            <div class=dateTime-container><span class=date>may 16,2015</span> <span
-                                    class=time>15:30pm</span></div>
-                            <div class=country-wrap><span class=field>wbeysley stadium</span> <span class=country>(london)</span>
-                            </div>
-                        </div>
-                    </div>
-                    <div class=result-details>
-                        <div class="content contentresult"><h4>fc Zulu Ninjas</h4>
-
-                            <p>win</p>
-
-                            <p>Leland Lagos(29)</p>
-
-                            <p>Lelnd Lagos(39)</p></div>
-                        <div class="figure figresult">
-                            <div class=team-logo>
-                                <div style=background:url(images/team-logo/logo02.png')}}") class=teamLogoImg></div>
-                            </div>
-                        </div>
-                    </div>
                     <div class=center><a href=# class="btn btn-red score-btn">Score board</a></div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class=club_history>
+        <div class=container>
+            <div class=row><h2 class=heading>club <span>history</span></h2>
+
+                <p class=headParagraph>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis
+                    consequuntur animi, commodi, voluptatibus labore aperiam fugit maxime quos optio architecto cum?
+                    Laborum nesciunt doloribus expedita atque error rem molestias, ducimus.</p>
+
+                <div class="nav clubHistory-wrap clearfix">
+                    <ul class=historyMeter>
+                        <li><a href=#><span>2011</span></a></li>
+                        <li class=win><a href=#win01><span>2012</span></a></li>
+                        <li><a href=#><span>2013</span></a></li>
+                        <li><a href=#><span>2014</span></a></li>
+                        <li class="win active"><a href=#win02><span>2015</span></a></li>
+                        <li><a href=#><span>2016</span></a></li>
+                        <li><a href=#><span>2017</span></a></li>
+                        <li><a href=#><span>2018</span></a></li>
+                        <li class=win><a href=#win03><span>2019</span></a></li>
+                        <li><span>2020</span></li>
+                        <li><span>2021</span></li>
+                        <li><span>2021</span></li>
+                        <li class=win><a href=#win04><span>2022</span></a></li>
+                        <li><a href=#><span>2023</span></a></li>
+                        <li><a href=#><span>2024</span></a></li>
+                        <li class=win><a href=#win05><span>2015</span></a></li>
+                    </ul>
+                    <div class="tab-content historyVideoWrap clearfix">
+                        <div role=tabpanel class="tab-pane clearfix" id=win01>
+                            <div class=historyVideo>
+                                <div class=historyvideoContainer>
+                                    <iframe src="https://www.youtube.com/embed/rPEd-h8DdRI allowfullscreen=""></iframe>
+                                </div>
+                            </div>
+                            <div class=historyContent><h4><span>fifa 1988,</span> uefa champions league</h4>
+
+                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Numquam non voluptatibus
+                                    error a esse maiores, ducimus sit unde alias aspernatur perspiciatis itaque
+                                    corporis? Accusamus pariatur dolorum repellendus consectetur tempore harum? Lorem
+                                    ipsum dolor sit amet, consectetur adipisicing elit. Praesentium a modi atque
+                                    reprehenderit eos, error impedit voluptatum quo quaerat placeat accusantium
+                                    molestiae quod dolore, quae quos, blanditiis recusandae id iste? Lorem ipsum dolor
+                                    sit amet, consectetur adipisicing elit. Praesentium a modi atque reprehenderit.</p>
+                                <a href=clubHistoryDetails.html class="btn-small btn-red">Read more</a></div>
+                        </div>
+                        <div role=tabpanel class="tab-pane active clearfix" id=win02>
+                            <div class=historyVideo>
+                                <div class=historyvideoContainer>
+                                    <iframe src="https://www.youtube.com/embed/rPEd-h8DdRI" allowfullscreen=""></iframe>
+                                </div>
+                            </div>
+                            <div class=historyContent><h4><span>fifa 1991 ,</span> uefa champions league</h4>
+
+                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Numquam non voluptatibus
+                                    error a esse maiores, ducimus sit unde alias aspernatur perspiciatis itaque
+                                    corporis? Accusamus pariatur dolorum repellendus consectetur tempore harum? Lorem
+                                    ipsum dolor sit amet, consectetur adipisicing elit. Praesentium a modi atque
+                                    reprehenderit eos, error impedit voluptatum quo quaerat placeat accusantium
+                                    molestiae quod dolore, quae quos, blanditiis recusandae id iste? Lorem ipsum dolor
+                                    sit amet, consectetur adipisicing elit. Praesentium a modi atque reprehenderit eos,
+                                    error impedit voluptatum quo quaerat placeat .</p><a href=clubHistoryDetails.html
+                                                                                         class="btn-small btn-red">Read
+                                    more</a></div>
+                        </div>
+                        <div role=tabpanel class="tab-pane clearfix" id=win03>
+                            <div class=historyVideo>
+                                <div class=historyvideoContainer>
+                                    <iframe src="https://www.youtube.com/embed/F6U5-B3NUKA allowfullscreen=""></iframe>
+                                </div>
+                            </div>
+                            <div class=historyContent><h4><span>fifa 2000 ,</span> uefa champions league</h4>
+
+                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Numquam non voluptatibus
+                                    error a esse maiores, ducimus sit unde alias aspernatur perspiciatis itaque
+                                    corporis? Accusamus pariatur dolorum repellendus consectetur tempore harum? Lorem
+                                    ipsum dolor sit amet, consectetur adipisicing elit. Praesentium a modi atque
+                                    reprehenderit eos, error impedit voluptatum quo quaerat placeat accusantium
+                                    molestiae quod dolore, quae quos, blanditiis recusandae id iste? Lorem ipsum dolor
+                                    sit amet, consectetur adipisicing elit. Praesentium a modi atque reprehenderit .</p>
+                                <a href=clubHistoryDetails.html class="btn-small btn-red">Read more</a></div>
+                        </div>
+                        <div role=tabpanel class="tab-pane clearfix" id=win04>
+                            <div class=historyVideo>
+                                <div class=historyvideoContainer>
+                                    <iframe src="https://www.youtube.com/embed/rPEd-h8DdRI allowfullscreen=""></iframe>
+                                </div>
+                            </div>
+                            <div class=historyContent><h4><span>fifa 2012,</span> uefa champions league</h4>
+
+                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Numquam non voluptatibus
+                                    error a esse maiores, ducimus sit unde alias aspernatur perspiciatis itaque
+                                    corporis? Accusamus pariatur dolorum repellendus consectetur tempore harum? Lorem
+                                    ipsum dolor sit amet, consectetur adipisicing elit. Praesentium a modi atque
+                                    reprehenderit eos, error impedit voluptatum quo quaerat placeat accusantium
+                                    molestiae quod dolore, quae quos, blanditiis recusandae id iste? Lorem ipsum dolor
+                                    sit amet, consectetur adipisicing elit. Praesentium a modi atque reprehenderit,</p>
+                                <a href=clubHistoryDetails.html class="btn-small btn-red">Read more</a></div>
+                        </div>
+                        <div role=tabpanel class="tab-pane clearfix" id=win05>
+                            <div class=historyVideo>
+                                <div class=historyvideoContainer>
+                                    <iframe src="https://www.youtube.com/embed/rPEd-h8DdRI allowfullscreen=""></iframe>
+                                </div>
+                            </div>
+                            <div class=historyContent><h4><span>fifa 2015 ,</span> uefa champions league</h4>
+
+                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Numquam non voluptatibus
+                                    error a esse maiores, ducimus sit unde alias aspernatur perspiciatis itaque
+                                    corporis? Accusamus pariatur dolorum repellendus consectetur tempore harum? Lorem
+                                    ipsum dolor sit amet, consectetur adipisicing elit. Praesentium a modi atque
+                                    reprehenderit eos, error impedit voluptatum quo quaerat placeat accusantium
+                                    molestiae quod dolore, quae quos, blanditiis recusandae id iste? Lorem ipsum dolor
+                                    sit amet, consectetur adipisicing elit. Praesentium a modi atque reprehenderit eos,
+                                    error impedit voluptatum quo quaerat placeat accusantium molestiae quod dolore, quae
+                                    quos, blanditiis recusandae id iste.</p><a href=clubHistoryDetails.html
+                                                                               class="btn-small btn-red">Read more</a>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
@@ -686,129 +741,7 @@
             </div>
         </div>
     </section>
-    <section class=club_history>
-        <div class=container>
-            <div class=row><h2 class=heading>club <span>history</span></h2>
 
-                <p class=headParagraph>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis
-                    consequuntur animi, commodi, voluptatibus labore aperiam fugit maxime quos optio architecto cum?
-                    Laborum nesciunt doloribus expedita atque error rem molestias, ducimus.</p>
-
-                <div class="nav clubHistory-wrap clearfix">
-                    <ul class=historyMeter>
-                        <li><a href=#><span>1987</span></a></li>
-                        <li class=win><a href=#win01><span>1988</span></a></li>
-                        <li><a href=#><span>1989</span></a></li>
-                        <li><a href=#><span>1990</span></a></li>
-                        <li class="win active"><a href=#win02><span>1991</span></a></li>
-                        <li><a href=#><span>1991</span></a></li>
-                        <li><a href=#><span>1995</span></a></li>
-                        <li><a href=#><span>1997</span></a></li>
-                        <li class=win><a href=#win03><span>2000</span></a></li>
-                        <li><span>2005</span></li>
-                        <li><span>2007</span></li>
-                        <li><span>2009</span></li>
-                        <li class=win><a href=#win04><span>2012</span></a></li>
-                        <li><a href=#><span>2013</span></a></li>
-                        <li><a href=#><span>2014</span></a></li>
-                        <li class=win><a href=#win05><span>2015</span></a></li>
-                    </ul>
-                    <div class="tab-content historyVideoWrap clearfix">
-                        <div role=tabpanel class="tab-pane clearfix" id=win01>
-                            <div class=historyVideo>
-                                <div class=historyvideoContainer>
-                                    <iframe src="https://www.youtube.com/embed/rPEd-h8DdRI allowfullscreen=""></iframe>
-                                </div>
-                            </div>
-                            <div class=historyContent><h4><span>fifa 1988,</span> uefa champions league</h4>
-
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Numquam non voluptatibus
-                                    error a esse maiores, ducimus sit unde alias aspernatur perspiciatis itaque
-                                    corporis? Accusamus pariatur dolorum repellendus consectetur tempore harum? Lorem
-                                    ipsum dolor sit amet, consectetur adipisicing elit. Praesentium a modi atque
-                                    reprehenderit eos, error impedit voluptatum quo quaerat placeat accusantium
-                                    molestiae quod dolore, quae quos, blanditiis recusandae id iste? Lorem ipsum dolor
-                                    sit amet, consectetur adipisicing elit. Praesentium a modi atque reprehenderit.</p>
-                                <a href=clubHistoryDetails.html class="btn-small btn-red">Read more</a></div>
-                        </div>
-                        <div role=tabpanel class="tab-pane active clearfix" id=win02>
-                            <div class=historyVideo>
-                                <div class=historyvideoContainer>
-                                    <iframe src="https://www.youtube.com/embed/rPEd-h8DdRI" allowfullscreen=""></iframe>
-                                </div>
-                            </div>
-                            <div class=historyContent><h4><span>fifa 1991 ,</span> uefa champions league</h4>
-
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Numquam non voluptatibus
-                                    error a esse maiores, ducimus sit unde alias aspernatur perspiciatis itaque
-                                    corporis? Accusamus pariatur dolorum repellendus consectetur tempore harum? Lorem
-                                    ipsum dolor sit amet, consectetur adipisicing elit. Praesentium a modi atque
-                                    reprehenderit eos, error impedit voluptatum quo quaerat placeat accusantium
-                                    molestiae quod dolore, quae quos, blanditiis recusandae id iste? Lorem ipsum dolor
-                                    sit amet, consectetur adipisicing elit. Praesentium a modi atque reprehenderit eos,
-                                    error impedit voluptatum quo quaerat placeat .</p><a href=clubHistoryDetails.html
-                                                                                         class="btn-small btn-red">Read
-                                    more</a></div>
-                        </div>
-                        <div role=tabpanel class="tab-pane clearfix" id=win03>
-                            <div class=historyVideo>
-                                <div class=historyvideoContainer>
-                                    <iframe src="https://www.youtube.com/embed/F6U5-B3NUKA allowfullscreen=""></iframe>
-                                </div>
-                            </div>
-                            <div class=historyContent><h4><span>fifa 2000 ,</span> uefa champions league</h4>
-
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Numquam non voluptatibus
-                                    error a esse maiores, ducimus sit unde alias aspernatur perspiciatis itaque
-                                    corporis? Accusamus pariatur dolorum repellendus consectetur tempore harum? Lorem
-                                    ipsum dolor sit amet, consectetur adipisicing elit. Praesentium a modi atque
-                                    reprehenderit eos, error impedit voluptatum quo quaerat placeat accusantium
-                                    molestiae quod dolore, quae quos, blanditiis recusandae id iste? Lorem ipsum dolor
-                                    sit amet, consectetur adipisicing elit. Praesentium a modi atque reprehenderit .</p>
-                                <a href=clubHistoryDetails.html class="btn-small btn-red">Read more</a></div>
-                        </div>
-                        <div role=tabpanel class="tab-pane clearfix" id=win04>
-                            <div class=historyVideo>
-                                <div class=historyvideoContainer>
-                                    <iframe src="https://www.youtube.com/embed/rPEd-h8DdRI allowfullscreen=""></iframe>
-                                </div>
-                            </div>
-                            <div class=historyContent><h4><span>fifa 2012,</span> uefa champions league</h4>
-
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Numquam non voluptatibus
-                                    error a esse maiores, ducimus sit unde alias aspernatur perspiciatis itaque
-                                    corporis? Accusamus pariatur dolorum repellendus consectetur tempore harum? Lorem
-                                    ipsum dolor sit amet, consectetur adipisicing elit. Praesentium a modi atque
-                                    reprehenderit eos, error impedit voluptatum quo quaerat placeat accusantium
-                                    molestiae quod dolore, quae quos, blanditiis recusandae id iste? Lorem ipsum dolor
-                                    sit amet, consectetur adipisicing elit. Praesentium a modi atque reprehenderit,</p>
-                                <a href=clubHistoryDetails.html class="btn-small btn-red">Read more</a></div>
-                        </div>
-                        <div role=tabpanel class="tab-pane clearfix" id=win05>
-                            <div class=historyVideo>
-                                <div class=historyvideoContainer>
-                                    <iframe src="https://www.youtube.com/embed/rPEd-h8DdRI allowfullscreen=""></iframe>
-                                </div>
-                            </div>
-                            <div class=historyContent><h4><span>fifa 2015 ,</span> uefa champions league</h4>
-
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Numquam non voluptatibus
-                                    error a esse maiores, ducimus sit unde alias aspernatur perspiciatis itaque
-                                    corporis? Accusamus pariatur dolorum repellendus consectetur tempore harum? Lorem
-                                    ipsum dolor sit amet, consectetur adipisicing elit. Praesentium a modi atque
-                                    reprehenderit eos, error impedit voluptatum quo quaerat placeat accusantium
-                                    molestiae quod dolore, quae quos, blanditiis recusandae id iste? Lorem ipsum dolor
-                                    sit amet, consectetur adipisicing elit. Praesentium a modi atque reprehenderit eos,
-                                    error impedit voluptatum quo quaerat placeat accusantium molestiae quod dolore, quae
-                                    quos, blanditiis recusandae id iste.</p><a href=clubHistoryDetails.html
-                                                                               class="btn-small btn-red">Read more</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
     <section class="players homeplayer">
         <div class=container>
             <div class=row><h2 class=heading>our <span>heroes</span></h2>
@@ -822,7 +755,7 @@
                         <li><a href="#">
                             <div class=playerFig>
                                 <div class=playerpic>
-                                    <div style=background:url(images/player/player01.jpg')}}") class=bgimg></div>
+                                    <div style=background:url(images/player/player01.jpg) class=bgimg></div>
                                 </div>
                                 <ul class="playerDetails clearfix">
                                     <li><span>Daren Difiore</span> <span><img src="{{asset('FrontSite/images/icons/tShirt.png')}}"
@@ -836,7 +769,7 @@
                         <li><a href="#">
                             <div class=playerFig>
                                 <div class=playerpic>
-                                    <div style=background:url(images/player/player02.jpg')}}") class=bgimg></div>
+                                    <div style=background:url(images/player/player02.jpg) class=bgimg></div>
                                 </div>
                                 <ul class="playerDetails clearfix">
                                     <li><span>Terry Tijerina</span> <span><img src="{{asset('FrontSite/images/icons/tShirt.png')}}"
@@ -850,7 +783,7 @@
                         <li><a href="#">
                             <div class=playerFig>
                                 <div class=playerpic>
-                                    <div style=background:url(images/player/player03.jpg')}}") class=bgimg></div>
+                                    <div style=background:url(images/player/player03.jpg) class=bgimg></div>
                                 </div>
                                 <ul class="playerDetails clearfix">
                                     <li><span>Alex Alameda</span> <span><img src="{{asset('FrontSite/images/icons/tShirt.png')}}"
@@ -864,7 +797,7 @@
                         <li><a href="#">
                             <div class=playerFig>
                                 <div class=playerpic>
-                                    <div style=background:url(images/player/player04.jpg')}}") class=bgimg></div>
+                                    <div style=background:url(images/player/player04.jpg) class=bgimg></div>
                                 </div>
                                 <ul class="playerDetails clearfix">
                                     <li><span>Lane Lavalley</span> <span><img src="{{asset('FrontSite/images/icons/tShirt.png')}}"
@@ -878,7 +811,7 @@
                         <li><a href="#">
                             <div class=playerFig>
                                 <div class=playerpic>
-                                    <div style=background:url(images/player/player05.jpg')}}") class=bgimg></div>
+                                    <div style=background:url(images/player/player05.jpg) class=bgimg></div>
                                 </div>
                                 <ul class="playerDetails clearfix">
                                     <li><span>Dominick Dumbleton</span> <span><img src="{{asset('FrontSite/images/icons/tShirt.png')}}"
