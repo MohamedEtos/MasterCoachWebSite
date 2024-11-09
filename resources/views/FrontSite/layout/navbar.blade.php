@@ -3,8 +3,8 @@
         <div class=container>
             <div class=row>
                 <ul>
-                    <li><a href="#">عربي</a></li>
-                    <li><a href="#"><span>English</span></a></li>
+                    <li><a href="locale/ar">عربي</a></li>
+                    <li><a href="locale/en"><span>English</span></a></li>
                 </ul>
             </div>
         </div>
@@ -22,11 +22,11 @@
                             </div>
                             <div class=nav-menu>
                                 <ul class="nav navbar-nav menu-bar">
-                                    <li><a href=index-2.html class=active>Home <span></span> <span></span>
+                                    <li><a href=index-2.html class=active>@lang('messages.home') <span></span> <span></span>
                                         <span></span> <span></span></a></li>
                                     {{-- <li><a href=about.html>about <span></span> <span></span> <span></span>
                                         <span></span></a></li> --}}
-                                    <li><a>Program <i class="fa-solid fa-angle-down"></i><span></span> <span></span> <span></span> <span></span></a>
+                                    <li><a>@lang('messages.programs') <i class="fa-solid fa-angle-down"></i><span></span> <span></span> <span></span> <span></span></a>
                                         <ul class=sub-menu>
                                             <li><a href=gallerypage01.html>Junior</a></li>
                                             <li><a href=gallery02.html>Senior</a></li>
@@ -34,7 +34,7 @@
                                         </ul>
                                     </li>
 
-                                    <li><a>Location <i class="fa-solid fa-angle-down"></i><span></span> <span></span> <span></span> <span></span></a>
+                                    <li><a>@lang('messages.location') <i class="fa-solid fa-angle-down"></i><span></span> <span></span> <span></span> <span></span></a>
                                         <ul class=sub-menu>
                                             <li><a href=gallery02.html>malizia</a></li>
                                             <li><a href=gallerypage01.html>Palestine</a></li>
