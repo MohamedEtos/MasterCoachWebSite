@@ -39,7 +39,7 @@
     <section class="booking bg-smallwhite">
         <div class=container>
             <div class=booking-fig><h2>Master Coach Club</h2></div>
-            <div class=booking-content><a href=# class="btn btn-white">read more</a> <a href=bookTicket.html
+            <div class=booking-content><a href=# class="btn btn-white">read more</a> <a href='https://maps.app.goo.gl/gjweUFoLMQzN15oN7'
                 class="btn btn-red">Location <i class="fa-solid fa-location-dot"></i></a></div>
         </div>
     </section>
@@ -62,13 +62,14 @@
                         </div>
                         <div class=player02info>
 
-                            <h6 class="oswald16" style="font-size:20px" >FUNDAMENTAL</h6>
+                            <h4 class="oswald16" style="font-size:40px" >@lang('messages.football')</h4>
 
-                            <p>In depth and progressive learning of competitive dribbling, shooting, passing, defending skills and tactics that can ultimately enhance your football gameplay skill. </p>
+                            <h5>@lang('messages.football_p') </h5>
 
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nemo dicta iure atque dolorem
                                 voluptate quasi maxime, repellat aliquid eos. He made his debut for France in October
-                                2011 and featured in four of Les Bleus' five games at the 2014 World Cup.</p><h6
+                                2011 and featured in four of Les Bleus' five games at the 2014 World Cup.</p>
+                                 <h6
                                 class=oswald16>previous club</h6>
                             <ul class=clearfix>
                                 <li>France international Mathieu Debuchy</li>
@@ -84,9 +85,9 @@
                         </div>
                         <div class=player02info>
 
-                            <h6 class="oswald16" style="font-size:20px"> TECHNIQUES</h6>
+                            <h6 class="oswald16" style="font-size:40px">@lang('messages.basketball')</h6>
 
-                            <p>Tap into the in-house specialties of D Skills by learning varieties of technical dribbling, nutmeg and freestyle skills which will up your game to the next level..</p>
+                            <p>@lang('messages.basketball_P')</p>
 
                             <p>He helped the French side to a league and cup double in 2010/11 and was named in the
                                 Ligue 1 Team of the Season the following year. He made his debut for France in October
@@ -106,9 +107,9 @@
                         </div>
                         <div class=player02info>
 
-                            <h6 class=oswald16 style="font-size:20px">FITNESS</h6>
+                            <h6 class=oswald16 style="font-size:40px">@lang('messages.duel')</h6>
 
-                            <p>You will learn a series of fitness workout and agility ladders drills that can help to improve your pace, stamina and shaping your body..</p>
+                            <p>@lang('messages.duel_p')</p>
 
                             <p>He helped the French side to a league and cup double in 2010/11 and was named in the
                                 Ligue 1 Team of the Season the following year. He made his debut for France in October
@@ -130,20 +131,16 @@
 
     <section class=about>
         <div class=container>
-            <div class=row><h2 class=heading>About <span>Master Coach</span></h2>
+            <div class=row><h2 class=heading>@lang('messages.about') <span>@lang('messages.Master_Coach')</span></h2>
 
                 <div class=about-wrap>
                     <div class="tab-content nav-content">
-                        <p role=tabpanel class="tab-pane fade col-6" id=matches>Master Coach Academy is Malaysia's leading football academy that offers professional hybrid football skills development program for 4 to 16 years old players. To date, we have transcended 5000+ players' football skills by adopting our proven success training method and quality program in social immersed learning environment..
-
+                        <p role=tabpanel class="tab-pane fade col-6" id=matches>
+                            @lang('messages.Master_Coach_p')
                         </p>
 
-                        <p role=tabpanel class="tab-pane active fade in col-6" id=static>2Lorem ipsum dolor sit amet,
-                            consectetur adipisicing elit. Enim amet cumque quo at eius nulla, voluptates asaliquid
-                            placeat!Lorem ipsum dolor sit amet, consectetur adipisicing elit. nemo ab praesentium
-                            voluptatum, exercitationem ad quo tempore quam temporibus voluptates odio, qui laborum
-                            pariatur perferendis! Sapiente, itaque facilis deleniti unde?Lorem ipsum dolor sit amet,
-                            consectetur adipisicing elit.
+                        <p role=tabpanel class="tab-pane active fade in col-6" id=static>
+                            Master Coach Academy is a leading academy in Palestine and several countries that offers a professional program to develop the skills of several sports such as football, basketball and fencing, for male and female players aged 3-16 years..
                         </p>
 
                         <p role=tabpanel class="tab-pane fade col-6" id=traning>3Lorem ipsum dolor sit amet, consectetur
@@ -168,7 +165,7 @@
             </div>
         </div>
     </section>
-    <section class=latestResult>
+    {{-- <section class=latestResult>
         <div class=container>
             <div class=row><h2 class='heading c_color'>Our <span>Location</span></h2>
                     <p class="latestResult-wrap">
@@ -180,7 +177,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> --}}
 
     <section class=club_history>
         <div class=container>
@@ -192,22 +189,21 @@
 
                 <div class="nav clubHistory-wrap clearfix">
                     <ul class=historyMeter>
-                        <li><a href=#><span>2011</span></a></li>
-                        <li class=win><a href=#win01><span>2012</span></a></li>
+
+
                         <li><a href=#><span>2013</span></a></li>
                         <li><a href=#><span>2014</span></a></li>
-                        <li class="win active"><a href=#win02><span>2015</span></a></li>
+                        <li><a href=#><span>2015</span></a></li>
                         <li><a href=#><span>2016</span></a></li>
                         <li><a href=#><span>2017</span></a></li>
-                        <li><a href=#><span>2018</span></a></li>
-                        <li class=win><a href=#win03><span>2019</span></a></li>
-                        <li><span>2020</span></li>
-                        <li><span>2021</span></li>
-                        <li><span>2021</span></li>
-                        <li class=win><a href=#win04><span>2022</span></a></li>
-                        <li><a href=#><span>2023</span></a></li>
-                        <li><a href=#><span>2024</span></a></li>
-                        <li class=win><a href=#win05><span>2015</span></a></li>
+                        {{-- <li class=win><a href=#win03><span>2017</span></a></li> --}}
+                        <li><span>2018</span></li>
+                        <li class="win active"><a href=#win01><span>2019</span></a></li>
+                        <li class="win "><a href=#win02><span>2020</span></a></li>
+                        <li class="win "><a href=#win03><span>2021</span></a></li>
+                        <li class="win "><a href=#win04><span>2022</span></a></li>
+                        <li class="win "><a href=#win05><span>2023</span></a></li>
+                        <li class="win "><a href=#win06><span>2024</span></a></li>
                     </ul>
                     <div class="tab-content historyVideoWrap clearfix">
                         <div role=tabpanel class="tab-pane clearfix" id=win01>
@@ -216,15 +212,9 @@
                                     <iframe src="https://www.youtube.com/embed/rPEd-h8DdRI allowfullscreen=""></iframe>
                                 </div>
                             </div>
-                            <div class=historyContent><h4><span>fifa 1988,</span> uefa champions league</h4>
+                            <div class=historyContent><h4><span>2019</span> The launch of the academy in Tubas</h4>
 
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Numquam non voluptatibus
-                                    error a esse maiores, ducimus sit unde alias aspernatur perspiciatis itaque
-                                    corporis? Accusamus pariatur dolorum repellendus consectetur tempore harum? Lorem
-                                    ipsum dolor sit amet, consectetur adipisicing elit. Praesentium a modi atque
-                                    reprehenderit eos, error impedit voluptatum quo quaerat placeat accusantium
-                                    molestiae quod dolore, quae quos, blanditiis recusandae id iste? Lorem ipsum dolor
-                                    sit amet, consectetur adipisicing elit. Praesentium a modi atque reprehenderit.</p>
+                                <p>The launch of the academy in Tubas.</p>
                                 <a href=clubHistoryDetails.html class="btn-small btn-red">Read more</a></div>
                         </div>
                         <div role=tabpanel class="tab-pane active clearfix" id=win02>
@@ -233,7 +223,7 @@
                                     <iframe src="https://www.youtube.com/embed/rPEd-h8DdRI" allowfullscreen=""></iframe>
                                 </div>
                             </div>
-                            <div class=historyContent><h4><span>fifa 1991 ,</span> uefa champions league</h4>
+                            <div class=historyContent><h4><span>2020,</span> uefa champions league</h4>
 
                                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Numquam non voluptatibus
                                     error a esse maiores, ducimus sit unde alias aspernatur perspiciatis itaque
@@ -246,13 +236,30 @@
                                                                                          class="btn-small btn-red">Read
                                     more</a></div>
                         </div>
+                        <div role=tabpanel class="tab-pane clearfix" id=win02>
+                            <div class=historyVideo>
+                                <div class=historyvideoContainer>
+                                    <iframe src="https://www.youtube.com/embed/F6U5-B3NUKA allowfullscreen=""></iframe>
+                                </div>
+                            </div>
+                            <div class=historyContent><h4><span>2021 ,</span> uefa champions league</h4>
+
+                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Numquam non voluptatibus
+                                    error a esse maiores, ducimus sit unde alias aspernatur perspiciatis itaque
+                                    corporis? Accusamus pariatur dolorum repellendus consectetur tempore harum? Lorem
+                                    ipsum dolor sit amet, consectetur adipisicing elit. Praesentium a modi atque
+                                    reprehenderit eos, error impedit voluptatum quo quaerat placeat accusantium
+                                    molestiae quod dolore, quae quos, blanditiis recusandae id iste? Lorem ipsum dolor
+                                    sit amet, consectetur adipisicing elit. Praesentium a modi atque reprehenderit .</p>
+                                <a href=clubHistoryDetails.html class="btn-small btn-red">Read more</a></div>
+                        </div>
                         <div role=tabpanel class="tab-pane clearfix" id=win03>
                             <div class=historyVideo>
                                 <div class=historyvideoContainer>
                                     <iframe src="https://www.youtube.com/embed/F6U5-B3NUKA allowfullscreen=""></iframe>
                                 </div>
                             </div>
-                            <div class=historyContent><h4><span>fifa 2000 ,</span> uefa champions league</h4>
+                            <div class=historyContent><h4><span>2022 ,</span> uefa champions league</h4>
 
                                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Numquam non voluptatibus
                                     error a esse maiores, ducimus sit unde alias aspernatur perspiciatis itaque
@@ -269,7 +276,7 @@
                                     <iframe src="https://www.youtube.com/embed/rPEd-h8DdRI allowfullscreen=""></iframe>
                                 </div>
                             </div>
-                            <div class=historyContent><h4><span>fifa 2012,</span> uefa champions league</h4>
+                            <div class=historyContent><h4><span>2023 ,</span> uefa champions league</h4>
 
                                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Numquam non voluptatibus
                                     error a esse maiores, ducimus sit unde alias aspernatur perspiciatis itaque
@@ -286,7 +293,27 @@
                                     <iframe src="https://www.youtube.com/embed/rPEd-h8DdRI allowfullscreen=""></iframe>
                                 </div>
                             </div>
-                            <div class=historyContent><h4><span>fifa 2015 ,</span> uefa champions league</h4>
+                            <div class=historyContent><h4><span>2023 ,</span> uefa champions league</h4>
+
+                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Numquam non voluptatibus
+                                    error a esse maiores, ducimus sit unde alias aspernatur perspiciatis itaque
+                                    corporis? Accusamus pariatur dolorum repellendus consectetur tempore harum? Lorem
+                                    ipsum dolor sit amet, consectetur adipisicing elit. Praesentium a modi atque
+                                    reprehenderit eos, error impedit voluptatum quo quaerat placeat accusantium
+                                    molestiae quod dolore, quae quos, blanditiis recusandae id iste? Lorem ipsum dolor
+                                    sit amet, consectetur adipisicing elit. Praesentium a modi atque reprehenderit eos,
+                                    error impedit voluptatum quo quaerat placeat accusantium molestiae quod dolore, quae
+                                    quos, blanditiis recusandae id iste.</p><a href=clubHistoryDetails.html
+                                                                               class="btn-small btn-red">Read more</a>
+                            </div>
+                        </div>
+                        <div role=tabpanel class="tab-pane clearfix" id=win06>
+                            <div class=historyVideo>
+                                <div class=historyvideoContainer>
+                                    <iframe src="https://www.youtube.com/embed/rPEd-h8DdRI allowfullscreen=""></iframe>
+                                </div>
+                            </div>
+                            <div class=historyContent><h4><span>2024 ,</span> uefa champions league</h4>
 
                                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Numquam non voluptatibus
                                     error a esse maiores, ducimus sit unde alias aspernatur perspiciatis itaque

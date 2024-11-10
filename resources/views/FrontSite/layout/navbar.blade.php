@@ -28,28 +28,36 @@
                                         <span></span></a></li> --}}
                                     <li><a>@lang('messages.programs') <i class="fa-solid fa-angle-down"></i><span></span> <span></span> <span></span> <span></span></a>
                                         <ul class=sub-menu>
-                                            <li><a href=gallerypage01.html>Junior</a></li>
-                                            <li><a href=gallery02.html>Senior</a></li>
-                                            <li><a href=gallery03.html>Kids</a></li>
+                                            <li><a href=gallerypage01.html>@lang('messages.Junior')</a></li>
+                                            <li><a href=gallery02.html>@lang('messages.Senior')</a></li>
+                                            <li><a href=gallery03.html>@lang('messages.Kids')</a></li>
                                         </ul>
                                     </li>
 
                                     <li><a>@lang('messages.location') <i class="fa-solid fa-angle-down"></i><span></span> <span></span> <span></span> <span></span></a>
                                         <ul class=sub-menu>
-                                            <li><a href=gallery02.html>malizia</a></li>
-                                            <li><a href=gallerypage01.html>Palestine</a></li>
+                                            <li><a href="">@lang('messages.Nablusfootball')</a></li>
+                                            <li><a href="">@lang('messages.Nablusbasketball')</a></li>
+                                            <li><a href="">@lang('messages.NablusDuel')</a></li>
+                                            <li><a href="">@lang('messages.Tammun')</a></li>
+                                            <li><a href="">@lang('messages.Tubas')</a></li>
+                                            <li><a href="">@lang('messages.Qalqilya')</a></li>
+                                            <li><a href="">@lang('messages.Bethlehem')</a></li>
+                                            <li><a href="">@lang('messages.Jordan')</a></li>
+                                            <li><a href="">@lang('messages.Oman')</a></li>
+                                            <li><a href="">@lang('messages.Malaysia')</a></li>
                                         </ul>
                                     </li>
-                                    <li><a>Students <i class="fa-solid fa-angle-down"></i><span></span> <span></span> <span></span> <span></span></a>
+                                    <li><a>@lang('messages.students') <i class="fa-solid fa-angle-down"></i><span></span> <span></span> <span></span> <span></span></a>
                                         <ul class=sub-menu>
-                                            <li><a href=gallery02.html>Gallary</a></li>
+                                            <li><a href=gallery02.html>@lang('messages.Gallary')</a></li>
                                         </ul>
                                     </li>
 
-                                    <li><a __blank="" href="https://shop.karama-sc.com/login">Karama Club<span></span> <span></span>
+                                    <li><a __blank="" href="https://shop.karama-sc.com/login">@lang('messages.karamaClub')<span></span> <span></span>
                                         <span></span> <span></span></a></li>
 
-                                    <li><a href=contact.html>contact <span></span> <span></span> <span></span>
+                                    <li><a href=contact.html>@lang('messages.contact') <span></span> <span></span> <span></span>
                                         <span></span></a></li>
 
 
