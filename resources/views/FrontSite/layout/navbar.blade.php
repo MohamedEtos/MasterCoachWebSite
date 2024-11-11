@@ -38,7 +38,7 @@
                                         <ul class=sub-menu>
                                             <li><a href="">@lang('messages.Nablusfootball')</a></li>
                                             <li><a href="">@lang('messages.Nablusbasketball')</a></li>
-                                            <li><a href="">@lang('messages.NablusDuel')</a></li>
+                                            <li><a href="">@lang('messages.Nablusfencing')</a></li>
                                             <li><a href="">@lang('messages.Tammun')</a></li>
                                             <li><a href="">@lang('messages.Tubas')</a></li>
                                             <li><a href="">@lang('messages.Qalqilya')</a></li>

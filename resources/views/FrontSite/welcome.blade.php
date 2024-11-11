@@ -50,9 +50,7 @@
         <div class=container>
             <div class=row><h2 class="heading  " style="color:#5bc5f2">our <span>Programs</span></h2>
 
-                <p class=headParagraph>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis
-                    consequuntur animi, commodi, voluptatibus labore aperiam fugit maxime quos optio architecto cum?
-                    Laborum nesciunt doloribus expedita atque error rem molestias, ducimus.</p></div>
+                <p class='headParagraph' style="font-size:24px">@lang('messages.ourPrograms_p')</p></div>
             <div class="wrapper-container clearfix"><a class="prv prev"></a> <a class="nxt next"></a>
                 <ul class=player02>
                     <li>
@@ -62,19 +60,18 @@
                         </div>
                         <div class=player02info>
 
-                            <h4 class="oswald16" style="font-size:40px" >@lang('messages.football')</h4>
+                            <p class="oswald16" style="font-size:40px" >@lang('messages.football')</p>
 
-                            <h5>@lang('messages.football_p') </h5>
+                            <h5 style="font-size:25px">@lang('messages.football_p') </h5>
 
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nemo dicta iure atque dolorem
+                            {{-- <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nemo dicta iure atque dolorem
                                 voluptate quasi maxime, repellat aliquid eos. He made his debut for France in October
-                                2011 and featured in four of Les Bleus' five games at the 2014 World Cup.</p>
+                                2011 and featured in four of Les Bleus' five games at the 2014 World Cup.</p> --}}
                                  <h6
-                                class=oswald16>previous club</h6>
+                                class=oswald16>@lang('messages.football_s')</h6>
                             <ul class=clearfix>
-                                <li>France international Mathieu Debuchy</li>
-                                <li>18 in the Champions League.</li>
-                                <li>Les Bleus' five games at the 2014</li>
+                                <li>@lang('messages.football_participated')</li>
+
                             </ul>
                             <a href=player_details.html>more</a></div>
                     </li>
@@ -87,16 +84,20 @@
 
                             <h6 class="oswald16" style="font-size:40px">@lang('messages.basketball')</h6>
 
-                            <p>@lang('messages.basketball_P')</p>
+                            <p style="font-size:25px">@lang('messages.basketball_P')</p>
+                            {{-- <p style="font-size:25px">تعلم المهارات وتكتيكات كرة السلة ضمن خطة مدرسة تشمل المشاركة في المنافسات، ولكلا الجنسين من عمر 6 سنوات حتى 20 عام، تحت أشراف المدرب واللاعب الوطني وسيم يعيش، والذي طور  وفق منهاج تدريبي متخصص</p> --}}
 
-                            <p>He helped the French side to a league and cup double in 2010/11 and was named in the
-                                Ligue 1 Team of the Season the following year. He made his debut for France in October
-                                2011 and featured in four of Les Bleus' five games at the 2014 World Cup.</p><h6
-                                class=oswald16>previous club</h6>
+                            <h6
+                            class=oswald16>@lang('messages.basketball_s')</h6>
                             <ul class=clearfix>
-                                <li>France international Mathieu Debuchy</li>
-                                <li>18 in the Champions League.</li>
-                                <li>Les Bleus' five games at the 2014</li>
+                                <li>@lang('messages.basket_participated1')</li>
+                                <li>@lang('messages.basket_participated2')</li>
+                                <li>@lang('messages.basket_participated3')</li>
+                                <li>@lang('messages.basket_participated3')</li>
+                                <li>@lang('messages.basket_participated4')</li>
+                                <li>@lang('messages.basket_participated5')</li>
+                                <li>@lang('messages.basket_participated6')</li>
+
                             </ul>
                             <a href=player_details.html>more</a></div>
                     </li>
@@ -107,18 +108,18 @@
                         </div>
                         <div class=player02info>
 
-                            <h6 class=oswald16 style="font-size:40px">@lang('messages.duel')</h6>
+                            <h6 class=oswald16 style="font-size:40px">@lang('messages.fencing')</h6>
 
-                            <p>@lang('messages.duel_p')</p>
+                            <p style="font-size:25px">@lang('messages.fencing_p')</p>
 
-                            <p>He helped the French side to a league and cup double in 2010/11 and was named in the
+                            {{-- <p>He helped the French side to a league and cup double in 2010/11 and was named in the
                                 Ligue 1 Team of the Season the following year. He made his debut for France in October
-                                2011 and featured in four of Les Bleus' five games at the 2014 World Cup.</p><h6
-                                class=oswald16>previous club</h6>
+                                2011 and featured in four of Les Bleus' five games at the 2014 World Cup.</p> --}}
+                                <h6
+                                class=oswald16>@lang('messages.fencing_s')</h6>
                             <ul class=clearfix>
-                                <li>France international Mathieu Debuchy</li>
-                                <li>18 in the Champions League.</li>
-                                <li>Les Bleus' five games at the 2014</li>
+                                <li>@lang('messages.fencing_participated')</li>
+
                             </ul>
                             <a href=player_details.html>more</a></div>
                     </li>
