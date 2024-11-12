@@ -48,7 +48,7 @@
 
     <section class=playerDetails02>
         <div class=container>
-            <div class=row><h2 class="heading  " style="color:#5bc5f2">our <span>Programs</span></h2>
+            <div class=row><h2 class="heading  " style="color:#5bc5f2"> <span>@lang('messages.ourPrograms')</span></h2>
 
                 <p class='headParagraph' style="font-size:24px">@lang('messages.ourPrograms_p')</p></div>
             <div class="wrapper-container clearfix"><a class="prv prev"></a> <a class="nxt next"></a>
@@ -97,7 +97,6 @@
                                 <li>@lang('messages.basket_participated4')</li>
                                 <li>@lang('messages.basket_participated5')</li>
                                 <li>@lang('messages.basket_participated6')</li>
-
                             </ul>
                             <a href=player_details.html>more</a></div>
                     </li>
@@ -132,57 +131,38 @@
 
     <section class=about>
         <div class=container>
-            <div class=row><h2 class=heading>@lang('messages.about') <span>@lang('messages.Master_Coach')</span></h2>
+            <div class=row><h2 class=heading> <span>@lang('messages.about') @lang('messages.Master_Coach')</span></h2>
 
                 <div class=about-wrap>
                     <div class="tab-content nav-content">
-                        <p role=tabpanel class="tab-pane fade col-6" id=matches>
-                            @lang('messages.Master_Coach_p')
+                        <p role=tabpanel  style="font-size:20px" class="tab-pane fade col-6" id=start>
+                            @lang('messages.start_p')
                         </p>
 
-                        <p role=tabpanel class="tab-pane active fade in col-6" id=static>
-                            Master Coach Academy is a leading academy in Palestine and several countries that offers a professional program to develop the skills of several sports such as football, basketball and fencing, for male and female players aged 3-16 years..
+                        <p role=tabpanel style="font-size:20px" class="tab-pane active fade in col-6" id=about>
+                           @lang('messages.about_p')
                         </p>
 
-                        <p role=tabpanel class="tab-pane fade col-6" id=traning>3Lorem ipsum dolor sit amet, consectetur
-                            adipisicing elit. s quos, maiores aliquid placeat! Lorem ipsum dolor sit amet, consectetur
-                            adipisicing elit. Esse nemo ab praesentium voluptatum, exercitationem ad quo tempore quam
-                            temporibus voluptates odio, qui laborum pariatur perferendis! Sapiente, itaque facilis
-                            deleniti unde?Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur expedita
-                            recusandae ullam autem ducimus consectetur sed iure sequi ratione architecto optio
-                            consequuntur atque dolor dolores asperiores illum, quam hic ab?
+                        <p role=tabpanel  style="font-size:20px"class="tab-pane fade col-6" id=Our_approach>
+                            @lang('messages.Ourapproach_p')
                         </p>
 
                     </div>
                     <div class=nav-header id=aboutTab>
                         <ul class="nav nav-tabs clearfix" role=tablist>
-                            <li><a href=#matches aria-controls=matches role=tab data-toggle=tab>Matches</a></li>
-                            <li class=active><a href=#static aria-controls=static role=tab data-toggle=tab>statics</a>
-                            </li>
-                            <li><a href=#traning aria-controls=traning role=tab data-toggle=tab>traning</a></li>
+                            <li><a href=#start aria-controls=start role=tab data-toggle=tab>@lang('messages.start')</a></li>
+                            <li class=active><a href=#Our_approach aria-controls=Our_approach role=tab data-toggle=tab>@lang('messages.Ourapproach')</a></li>
+                            <li ><a href=#about aria-controls=about role=tab data-toggle=tab>@lang('messages.ourabout')</a></li>
                         </ul>
                     </div>
                 </div>
             </div>
         </div>
     </section>
-    {{-- <section class=latestResult>
-        <div class=container>
-            <div class=row><h2 class='heading c_color'>Our <span>Location</span></h2>
-                    <p class="latestResult-wrap">
-                        Find your preferred locations and get trained by the best technical football coaches in Klang Valley now.
-                    </p>
-            </div>
-
-                    <div class=center><a href=# class="btn btn-red score-btn">Score board</a></div>
-                </div>
-            </div>
-        </div>
-    </section> --}}
 
     <section class=club_history>
         <div class=container>
-            <div class=row><h2 class=heading>club <span>history</span></h2>
+            <div class=row><h2 class=heading> <span> club history</span></h2>
 
                 <p class=headParagraph>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis
                     consequuntur animi, commodi, voluptatibus labore aperiam fugit maxime quos optio architecto cum?
